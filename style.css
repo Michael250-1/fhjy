@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+h1{
+    width:100%;
+    font-size: 30px;
+    margin-top:0px;
+}
+#status,#objectwrote{
+    font-size:25px;
+}
+#footer{
+    width:100%;
+    font-size: 30px;
+    bottom:0px;
+    position:fixed;
+    text-align: center;
+    color:white;
+    background-color: grey;
+    line-height:2;
+}
+#canvas{
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px white;
+    border: 2px solid white;
+    margin-top:100px;
+}
